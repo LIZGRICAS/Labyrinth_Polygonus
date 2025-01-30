@@ -1,7 +1,7 @@
 ﻿# Labyrinth_Polygonus
 
 
-<img align='center' src='https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWp5MGEzNnMya3ByNXRyMGYzMTNlM3Y1Y3JwMXkwOW81MTZ5eHptdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XoDqWmYzOGpbvyt8cv/giphy.gif' width='100%' height='450px'> 
+<img align='center' src='https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExczgxbHd0MDdmMXV1ZHF3cjVoYnNoem9wOTcwNml1ZzVhaTJ2NWR5MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XoDqWmYzOGpbvyt8cv/giphy.webp' width='100%' height='450px'> 
 
 
 Instrucciones: 
